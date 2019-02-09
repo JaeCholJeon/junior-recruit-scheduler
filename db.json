@@ -1,46 +1,86 @@
-{
-    "recruits": [
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2JpPLob",
-            "description": "지그재그 웹/IOS/안드로이드 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2M7dk2S",
-            "description": "8퍼센트 개발자 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2sLH9NA",
-            "description": "카카오 - 사내 정보 시스템 개발 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2sN04Zp",
-            "description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2IfFcQK",
-            "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
-        },
-        {
-            "endDate": "채용시까지",
-            "link": "http://bit.ly/2E0ZMV9",
-            "description": "Flitto(플리토) 안드로이드 개발자 채용"
-        }
-    ],
-    "seminars": [
-        {
-            "endDate": "~ 2019.01.07 00:00:00",
-            "link": "https://arena.kakao.com/c/1",
-            "description": "카카오 - 쇼핑몰 상품 카테고리 분류 대회"
-        },
-        {
-            "endDate": "~ 2018.12.17 오전 10시",
-            "link": "http://bit.ly/2E44qSe",
-            "description": "부스트캠프 안드로이드/IOS 교육생 모집"
-        }
-    ]
+﻿{
+  "recruits": [
+    {
+      "endDate": "2019-02-11 23:59:59",
+      "link": "https://bit.ly/2MFTywa",
+      "description": "줌인터넷 포털 서비스 개발(신입)"
+    },
+    {
+      "endDate": "2019-03-13 23:59:59",
+      "link": "http://woowabros.github.io/woowabros/2019/02/08/woowacourse.html",
+      "description": "우아한 형제들 - 우아한 코스"
+    },
+    {
+      "endDate": "2019-12-31 00:00:00",
+      "link": "https://bit.ly/2T1KaFp",
+      "description": "2019 카카오페이 서버 개발자 모집"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2TBq8RV",
+      "description": "인프랩(인프런) 웹 FrontEnd/BackEnd 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2JpPLob",
+      "description": "지그재그 웹/IOS/안드로이드 신입"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2M7dk2S",
+      "description": "8퍼센트 개발자 신입"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2sLH9NA",
+      "description": "카카오 - 사내 정보 시스템 개발 신입"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2sN04Zp",
+      "description": "카카오 - 컴퓨터비전 및 머신러닝 개발 신입"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2IfFcQK",
+      "description": "MyMusicTaste 프론트엔드 개발 신입 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2E0ZMV9",
+      "description": "Flitto(플리토) 안드로이드 주니어 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bit.ly/2srWAe7",
+      "description": "트레바리 주니어 개발자 채용"
+    },
+    {
+        "endDate": "채용시까지",
+        "link": "http://bit.ly/2LmXz7Y",
+        "description": "피플펀드 2~10년차 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bitly.kr/Bpeuv",
+      "description": "코멘토 Front-end 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "http://bitly.kr/9nM23",
+      "description": "코멘토 Back-end 개발자 채용"
+    },
+    {
+      "endDate": "채용시까지",
+      "link": "https://riiid.co/ko/career",
+      "description": "뤼이드 (산타토익) 전분야 주니어 채용"
+    }
+  ],
+  "seminars": [
+    {
+      "endDate": "2019-02-23 15:00:00",
+      "link": "https://programmers.co.kr/competitions/93/2019-remote-jobfair",
+      "description": "프로그래머스 2019 웹개발자 리모트 잡페어"
+    }
+  ]
 }
